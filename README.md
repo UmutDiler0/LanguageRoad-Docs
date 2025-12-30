@@ -79,11 +79,7 @@ This project is built with **Modern Android Architecture** guidelines.
 
 ##  Download & Installation
 
-🚧 **COMING SOON** 🚧
-
-This application is currently in the final stages of development and testing. It will be available on the **Google Play Store** very soon!
-
-*Stay tuned for the official release link.*
+PlayStore: https://play.google.com/store/apps/details?id=com.language.languageroad&utm_source=emea_Med
 
 ---
 
