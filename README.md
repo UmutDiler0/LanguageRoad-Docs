@@ -10,7 +10,7 @@
 ![Lottie](https://img.shields.io/badge/Lottie-Animations-00e5ff?style=for-the-badge)
 ![Media3](https://img.shields.io/badge/Media3-ExoPlayer-black?style=for-the-badge&logo=googleplay)
 
-> ** COMING SOON TO GOOGLE PLAY STORE!**
+> Play Store: https://play.google.com/store/apps/details?id=com.language.languageroad&utm_source=emea_Med
 
 **LanguageRoad** is a comprehensive, gamified language learning application designed to help users master Turkish and English. It features interactive games, a robust XP-based progression system, and streak tracking to keep users motivated. Built with the latest Android technologies.
 
